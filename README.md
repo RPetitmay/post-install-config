@@ -23,7 +23,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Administrating osTicket
 - Creating mock tickets
 - Solving mock tickets
-- 
 
 
 <h2>Configuration Steps</h2>
