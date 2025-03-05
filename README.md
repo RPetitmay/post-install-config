@@ -28,10 +28,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wAxjrjk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  <h1>Accessing osTicket Panels</h1>
+  <h3>Accessing osTicket Panels</h3>
 <ol>
             <li>Open a web browser on your virtual machine (VM).</li>
             <li>Copy and paste the following links into your browser to access the required panels.</li>
@@ -45,18 +45,40 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9qCTu0U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3>Assigning Roles in osTicket</h3>
+        <ol>
+            <li>Go to the <strong>Admin Panel</strong> in osTicket.</li>
+            <li>Navigate to <strong>Agents</strong> and select <strong>Roles</strong>.</li>
+            <li>Within each access section, assign specific <strong>roles</strong> to <strong>users</strong> or <strong>departments</strong>.</li>
+            <li>For example, create a new role called <strong>"Supreme Admin"</strong>.</li>
+            <li>Select all checkboxes under <strong>Tickets</strong> and <strong>Tasks</strong> to grant full administrative access.</li>
+            <li>Apply the changes to provide the selected role with the appropriate permissions.</li>
+        </ol>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MV1ZMdR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3>Creating a New Department in osTicket</h3>
+        <ol>
+            <li>Go to the <strong>Admin Panel</strong> in osTicket.</li>
+            <li>Click on <strong>Departments</strong>.</li>
+            <li>Click <strong>"Add New Department"</strong>.</li>
+            <li>Enter the required department details.</li>
+            <li>Fill in the following fields:</li>
+            <li><strong>Name</strong> (Enter the department name).</li>
+            <li><strong>Parent</strong> (Select the appropriate parent department).</li>
+            <li><strong>Type</strong> (Specify the department type).</li>
+            <li><strong>SLA</strong> (Set the service level agreement).</li>
+            <li>For this lab, enter <strong>"SysAdmin"</strong> as the department name.</li>
+            <li>Set the parent department to <strong>"Top Level Department"</strong>.</li>
+            <li>Click <strong>"Create Dept"</strong> to finalize the setup.</li>
+        </ol>
 </p>
 <br />
 
