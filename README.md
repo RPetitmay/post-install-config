@@ -125,7 +125,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to the admin panel , go to agents and then click Add New Agent,then fill information about the agent. First under Account tab fill in the information, first and last name, username and email.  . Under the Access tab assign the agent to a department and a role. Then under teams select a team for this agent. 
+<h3>Adding a New Agent in osTicket</h3>
+        <ol>
+            <li>Go to the <strong>Admin Panel</strong> in osTicket.</li>
+            <li>Click on <strong>Agents</strong>.</li>
+            <li>Select <strong>Add New Agent</strong>.</li>
+            <li>Under the <strong>Account</strong> tab, enter the following details:</li>
+            <li><strong>First Name</strong></li>
+            <li><strong>Last Name</strong></li>
+            <li><strong>Username</strong></li>
+            <li><strong>Email Address</strong></li>
+            <li>Set Password by click <strong>Set Password</strong> and then uncheck <strong>Send the agent a password reset email</strong></li>
+            <li>Go to the <strong>Access</strong> tab.</li>
+            <li>Assign the agent to a <strong>Department</strong>.</li>
+            <li>Select a <strong>Role</strong> for the agent.</li>
+            <li>Go to the <strong>Teams</strong> section.</li>
+            <li>Assign the agent to a <strong>Team</strong> if applicable.</li>
+        </ol> 
 </p>
 <br />
 
