@@ -67,6 +67,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Creating a New Department in osTicket</h3>
         <ol>
             <li>Go to the <strong>Admin Panel</strong> in osTicket.</li>
+            <li>Click on <strong>Agents</strong>.</li>
             <li>Click on <strong>Departments</strong>.</li>
             <li>Click <strong>"Add New Department"</strong>.</li>
             <li>Enter the required department details.</li>
@@ -83,10 +84,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1eyWQgj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3>Creating and Managing Teams in osTicket</h3>
+        <ol>
+            <li>Go to the <strong>Admin Panel</strong> in osTicket.</li>
+            <li>Click on <strong>Agents</strong>.</li>
+            <li>Select <strong>Teams</strong>.</li>
+            <li>Enter a <strong>team name</strong>.</li>
+            <li>Set the <strong>status</strong> of the team.</li>
+            <li>Assign <strong>team members</strong> if applicable.</li>
+            <li>Click <strong>"Save Changes"</strong> to finalize the team setup.</li>
+        </ol>
 </p>
 <br />
 
@@ -94,7 +104,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3>Enable Ticket Creation for Unregistered Users</h3>
+        <ol>
+            <li>Go to the <strong>Admin Panel</strong> in osTicket.</li>
+            <li>Click or hover over <strong>Settings</strong>.</li>
+            <li>Select <strong>Users</strong>.</li>
+            <li>Scroll to the <strong>Authentication Settings</strong> section.</li>
+            <li>Ensure the checkbox next to <strong>"Require registration and login to create tickets"</strong> is <strong>unchecked</strong>.</li>
+            <li>Click <strong>"Save Changes"</strong> to apply the configuration.</li>
+        </ol>
 </p>
 <br />
 
