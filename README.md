@@ -146,17 +146,76 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ogw360a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Adding a new user. Go to agent panel, then go to the users tab and then click Add User. Then enter information about the user such as first and last name, username, and phone number. Then click Add User to finalize creation. 
+  <h3>Adding a New User</h3>
+<ol>
+    <li>Navigate to the <strong>Agent Panel</strong>.</li>
+    <li>Select the <strong>Users</strong> tab.</li>
+    <li>Click <strong>Add User</strong>.</li>
+    <li>Enter the required details:
+        <ol>
+            <li>First and last name</li>
+            <li>Username</li>
+            <li>Phone number</li>
+        </ol>
+    </li>
+    <li>Click <strong>Add User</strong> to complete the process.</li>
+</ol>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S0SpLQY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+   <h3>Creating a New SLA Plan</h3>
+<ol>
+    <li>Navigate to the <strong>Admin Panel</strong>.</li>
+    <li>Select the <strong>Manage</strong> tab.</li>
+    <li>Under the <strong>Manage</strong> tab, click on <strong>SLA</strong>.</li>
+    <li>Click <strong>Add New SLA Plan</strong>.</li>
+    <li>For this lab, create the following SLA plans:
+        <ol>
+            <li>Sev-A</li>
+            <li>Sev-B</li>
+            <li>Sev-C</li>
+        </ol>
+    </li>
+    <li>For each SLA, enter the required details:
+        <ol>
+            <li>Name</li>
+            <li>Status</li>
+            <li>Grace Period</li>
+            <li>Schedule</li>
+        </ol>
+    </li>
+    <li>Click <strong>Add Plan</strong> to finalize the creation.</li>
+</ol>
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/dpj4EGa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <h3>Creating Help Topics for Users</h3>
+<ol>
+    <li>Navigate to the <strong>Admin Panel</strong>.</li>
+    <li>Select the <strong>Manage</strong> tab.</li>
+    <li>Under the <strong>Manage</strong> tab, click on <strong>Help Topics</strong>.</li>
+    <li>Click <strong>Add New Help Topic</strong>.</li>
+    <li>Enter the required details:
+        <ol>
+            <li>Name</li>
+            <li>Status</li>
+            <li>Type</li>
+            <li>Parent Topic</li>
+        </ol>
+    </li>
+    <li>Click <strong>Add Topic</strong> to complete the process.</li>
+</ol>
+</p>
+<br />
+
