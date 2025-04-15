@@ -12,6 +12,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Remote Desktop
 - Windows App
 - Internet Information Services (IIS)
+- Notepad/Notes App (Needed for saving usernames and passwords)
 
 <h2>Operating Systems Used </h2>
 
