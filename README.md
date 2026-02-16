@@ -220,3 +220,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+<h2>Conclusion</h2>
